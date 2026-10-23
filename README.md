@@ -21,7 +21,8 @@ session; signed-in Amazon visitors see more than the first page of reviews.
 
 ## Install
 
-- **Chrome Web Store:** coming soon.
+- **Chrome Web Store:** [Add to Chrome](https://chromewebstore.google.com/detail/insight-extractor-helper/gajopiokmadhdhkhkmjchdbjokjhicdg)
+  (works in Chrome, Edge and Brave on desktop).
 - **From source:** download this repository (or the zip from the
   [latest release](https://github.com/jaskaran-sethy/insight-extractor-extension/releases/latest)), open
   `chrome://extensions`, turn on **Developer mode**, click **Load unpacked** and pick the folder. Works in Chrome, Edge
